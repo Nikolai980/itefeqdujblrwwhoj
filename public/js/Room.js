@@ -643,7 +643,7 @@ async function shareRoom(useNavigator = false) {
             } else if (result.isDenied) {
                 let message = {
                     email: '',
-                    subject: 'Please join our MiroTalkSfu Video Chat Meeting',
+                    subject: 'Please join our AvtoStartSfu Video Chat Meeting',
                     body: 'Click to join: ' + RoomURL,
                 };
                 shareRoomByEmail(message);
