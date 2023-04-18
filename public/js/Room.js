@@ -1532,7 +1532,7 @@ function leaveFeedback() {
         background: swalBackground,
         imageUrl: image.feedback,
         title: 'Leave a feedback',
-        text: 'Do you want to rate your MiroTalk experience?',
+        text: 'Do you want to rate your AvtoStart experience?',
         confirmButtonText: `Yes`,
         denyButtonText: `No`,
         showClass: {
